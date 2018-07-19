@@ -6,10 +6,24 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-19T02:25:18.938Z</updated>
+  <updated>2018-07-19T04:11:27.535Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>源氏忍法帖</title>
+    <link href="http://yoursite.com/2018/07/19/%E6%BA%90%E6%B0%8F%E5%BF%8D%E6%B3%95%E5%B8%96/"/>
+    <id>http://yoursite.com/2018/07/19/源氏忍法帖/</id>
+    <published>2018-07-19T04:07:24.000Z</published>
+    <updated>2018-07-19T04:11:27.535Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
